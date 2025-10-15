@@ -7,6 +7,10 @@ Footer {
   background: transparent;
 }
 
+Header>.header--icon {
+  display: none;
+}
+
 #welcome {
   width: 100%;
   text-align: center;
