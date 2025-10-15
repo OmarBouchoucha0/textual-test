@@ -1,11 +1,10 @@
 Header {
-  height: 3;
   dock: top;
 }
 
 Footer {
-  height: 3;
   dock: bottom;
+  background: transparent;
 }
 
 #welcome {
@@ -23,4 +22,8 @@ Footer {
 
 Button {
   margin: 0 0;
+  padding: 1;
+  border: round $primary;
+  background: transparent;
+  width: 20;
 }
