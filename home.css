@@ -1,0 +1,31 @@
+Screen {
+  align: center middle;
+}
+
+Header {
+  height: 3;
+  dock: top;
+}
+
+Footer {
+  height: 3;
+  dock: bottom;
+}
+
+Static {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  padding: 1;
+  margin-bottom: 2;
+}
+
+Horizontal {
+  width: 100%;
+  height: auto;
+  align: center middle;
+}
+
+Button {
+  margin: 0 2;
+}
